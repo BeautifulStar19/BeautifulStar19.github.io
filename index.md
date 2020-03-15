@@ -14,3 +14,8 @@ Hello everyone!
 ### 随笔
 
 一分耕耘 一分收获
+
+### 友情链接
+
+[Artsy](https://www.artsy.net/). 
+[Arrested Motion](https://arrestedmotion.com/). 
