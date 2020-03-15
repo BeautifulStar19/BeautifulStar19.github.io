@@ -9,7 +9,7 @@ Hello everyone!
 
 ### 摄影作品
 
-<img src="im_202003134.jpg" alt="drawing" width="200"/>
+<img src="im_202003134.jpg" alt="drawing" width="200" height="230"/>
 
 ### 随笔
 
@@ -17,5 +17,4 @@ Hello everyone!
 
 ### 友情链接
 
-[Artsy](https://www.artsy.net/). 
-[Arrested Motion](https://arrestedmotion.com/). 
+潮流与街头艺术[Artsy](https://www.artsy.net/). 艺术社区[Arrested Motion](https://arrestedmotion.com/). 
